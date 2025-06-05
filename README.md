@@ -65,7 +65,7 @@ Feel free to fork this repo and enhance the project with:
 ## 💡 Author
 
 **Jayesh Yadav**  
-[LinkedIn](Linkedin.com/in/jayesh-y) | [GitHub](github.com/jazs69)
+[LinkedIn](https://www.Linkedin.com/in/jayesh-y) | [GitHub](https://www.github.com/jazs69)
 
 ---
 
