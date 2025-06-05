@@ -2,8 +2,6 @@
 
 A fun and simple web app to **teach the basics of fetching data from an API**. This project fetches and displays random dog images using the [Dog CEO API](https://dog.ceo/dog-api/).
 
-![Dog Demo](https://dog.ceo/api/img/hound-afghan/n02088094_1003.jpg)
-
 ---
 
 ## 🚀 Features
